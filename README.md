@@ -1,7 +1,7 @@
 
-## About Project
+### About Project
 
-Developed a project involving regular expressions and text preprocessing using NLTK
-and web scraping with BeautifulSoup. It includes comparing unsmoothed and
-smoothed unigram and bigram models to generate and evaluate sentences and
-calculating their perplexity.
+Developed a 2D autonomous driving simulator using Pygame and the NEAT algorithm.
+The project allowed users to create custom maps in MS Paint, with the simulator's car
+learning to navigate these tracks autonomously. It includes collision detection through
+enhanced radar systems and fine-tuning neural network parameters.
